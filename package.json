@@ -1,7 +1,7 @@
 {
   "name": "todo-list-master",
   "version": "1.0.0",
-  "description": "![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)",
+  "description": "![To-Do List App](http://127.0.0.1:5500/todo-list-master/index.html)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
